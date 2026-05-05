@@ -1,0 +1,1816 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ae/": {
+        "fingerprint": "ee69fbc083aad89d1445d4de37618639",
+        "raw_data": {
+            "h1_title": "Диски BMW 1 2005 E87",
+            "brand": "BMW",
+            "price_raw": "1999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_533.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_534.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_535.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_536.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_537.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски BMW 1 2005 E87 N46B20BY 6769402, контрактные, сняты с автомобиля",
+            "sales_notes": "1 999₽, в наличии Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Оригинальные диски BMW 1 2005 E87, контрактные, сняты с автомобиля. Параметры: 7J R16 ET44, стиль 151. Номер производителя 6769402."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Контрактные диски BMW 1 2005 E87 N46B20BY. Размер 7J R16 ET44, стиль 151. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Диски BMW 1 2005 E87, кузов E87, двигатель N46B20BY. Параметры: 7J R16 ET44, стиль 151. Цена 1 999₽."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Оригинальные диски BMW 1 2005 E87, сняты с автомобиля. Размер 7J R16 ET44, стиль 151. Номер 6769402."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Контрактные диски BMW 1 2005 E87. Параметры: 7J R16 ET44, стиль 151. В наличии, цена 1 999₽."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Диски BMW 1 2005 E87, оригинал, контрактные. Размер 7J R16 ET44, стиль 151. Номер производителя 6769402."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер] контрактные, сняты с автомобиля, параметры: [Параметры]",
+            "collection_description": "Контрактная Диски BMW 1 2005 E87",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:30:48.942635"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ad/": {
+        "fingerprint": "7881b2825cb16ebe342f8013dc5bb958",
+        "raw_data": {
+            "h1_title": "Диски BMW 1 2005 E87",
+            "brand": "BMW",
+            "price_raw": "3999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_523.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_524.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_525.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_526.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/44/0011_44_527.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "1",
+                "Кузов": "E87",
+                "Двигатель": "N46B20BY",
+                "Год": "2005",
+                "Номер по производителю": "6769402",
+                "Производитель": "BMW",
+                "Размер": "7J R16 ET44",
+                "Стиль": "151 style"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски BMW 1 2005 E87 N46B20BY 6769402, контрактные, 7J R16 ET44 151 стиль",
+            "sales_notes": "В наличии Москва, 3999₽",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Оригинальные диски BMW 1 серии 2005 года, кузов E87, двигатель N46B20BY. Размер 7J R16 ET44, стиль 151. Контрактная запчасть с японского авто."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Диски BMW 1 2005 E87, артикул 6769402. Параметры: 7J R16 ET44, стиль 151. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Комплект дисков BMW 1 серии 2005 года. Размерность 7J R16 ET44, дизайн 151 style. Сняты с автомобиля BMW 1 2005."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Диски для BMW 1 (E87) 2005 года. Характеристики: 7J R16 ET44, стиль 151. Номер производителя 6769402. Цена 3999 рублей."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Оригинальные диски BMW 1 2005 E87. Размер 7J R16 ET44, стиль 151. Контрактные, в хорошем состоянии. Доступны для заказа."
+                },
+                {
+                    "title": "Диски BMW 1 2005 E87",
+                    "description": "Диски BMW 1 серии 2005 года выпуска. Параметры: 7J R16 ET44, стиль 151. Артикул 6769402. Наличие на складе в Москве."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Артикул] [Размер] [Стиль]",
+            "collection_description": "Контрактная Диски BMW 1 (кузов E87, двс N46B20BY)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:31:09.479845"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e0c48/": {
+        "fingerprint": "25b4e8780b06f46bf8a4b78e1470dd13",
+        "raw_data": {
+            "h1_title": "Диски BMW 3 2007 E92",
+            "brand": "BMW",
+            "price_raw": "14999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_820.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_821.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_822.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_823.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_824.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "3",
+                "Кузов": "E92",
+                "Двигатель": "N54B30A",
+                "Год": "2007",
+                "Номер по производителю": "92",
+                "Производитель": "BMW"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски BMW 3 2007 E92 N54B30A 92 контрактная",
+            "sales_notes": "19x8.5j ET40 5x120, без дефектов",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Оригинальные диски BMW 3 серии E92 2007 года. Размер 19x8.5j ET40 5x120. Без варок, трещин и ремонтов. Производство Япония."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Контрактные диски BMW 3 E92. Состояние отличное, без дефектов. Параметры: 19 дюймов, ширина 8.5, вылет 40, сверловка 5x120."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Диски BMW 3 серии 2007 года выпуска. Модель E92, двигатель N54B30A. Комплект из 4 дисков. Японское качество."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Оригинальные диски BMW 3 E92. Размер 19x8.5j ET40 5x120. Без повреждений. Подходят для BMW 3 серии 2007 года."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Контрактные диски BMW 3 2007 E92. Состояние: без варок, трещин и ремонтов. Размер 19 дюймов. Производство Япония."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Диски BMW 3 серии E92 2007 года. Параметры: 19x8.5j ET40 5x120. Оригинальные, сняты с автомобиля. Отличное состояние."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов]",
+            "collection_description": "Контрактная Диски BMW 3 (кузов E92, двс N54B30A)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:31:32.545500"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e0c49/": {
+        "fingerprint": "25b4e8780b06f46bf8a4b78e1470dd13",
+        "raw_data": {
+            "h1_title": "Диски BMW 3 2007 E92",
+            "brand": "BMW",
+            "price_raw": "14999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_761.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_762.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_763.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_764.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_765.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "3",
+                "Кузов": "E92",
+                "Двигатель": "N54B30A",
+                "Год": "2007",
+                "Номер по производителю": "92",
+                "Производитель": "BMW"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски TSW MIRABEAU 19x9.5J ET35 5x120, сняты с BMW 3 2007 E92 N54B30A",
+            "sales_notes": "Один диск с трещиной, цена 14999₽",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Оригинальные диски TSW MIRABEAU 19x9.5J ET35 5x120, сняты с BMW 3 2007 E92 N54B30A. Один диск с трещиной. Цена 14999₽."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Контрактные диски BMW 3 2007 E92 N54B30A. Размер 19x9.5J ET35 5x120. В наличии на складе Москва."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Диски TSW MIRABEAU для BMW 3 E92. Параметры: 19x9.5J ET35 5x120. Один диск поврежден."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Комплект дисков BMW 3 2007 E92. Размер 19 дюймов, ширина 9.5J, вылет ET35, сверловка 5x120."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Б/у диски BMW 3 2007 E92 N54B30A. Модель TSW MIRABEAU. Один диск с трещиной."
+                },
+                {
+                    "title": "Диски BMW 3 2007 E92",
+                    "description": "Диски на BMW 3 E92 2007. Характеристики: 19x9.5J ET35 5x120. Цена 14999₽."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [МАРКА] [МОДЕЛЬ] [ГОД] [КУЗОВ]",
+            "collection_description": "Контрактная Диски BMW 3 (кузов E92, двс N54B30A)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:31:53.771850"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0ddd95/": {
+        "fingerprint": "93ca0470f8129d9daf1a9da82fd78157",
+        "raw_data": {
+            "h1_title": "Диски BMW 2 Gran Tourer 2016",
+            "brand": "BMW",
+            "price_raw": "17999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_852.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_853.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_854.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_855.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_856.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "2 Gran Tourer",
+                "Кузов": "F46",
+                "Двигатель": "B47C20A",
+                "Год": "2016",
+                "Номер по производителю": "6855082",
+                "Кросс-номера": "36116855082",
+                "Размер": "7x16 is52"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски без варок и ремонтов. 7x16 is52",
+            "sales_notes": "В наличии Москва. 17 999₽",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Оригинальные диски без варок и ремонтов. Размер 7x16 is52. Сняты с BMW 2 Gran Tourer 2016 F46 B47C20A. Номер 6855082."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Контрактные диски BMW 2 Gran Tourer 2016. Состояние без дефектов. Параметры: 7x16 is52. Артикул 6855082."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Оригинальные диски BMW для 2 Gran Tourer 2016. Без варок и ремонтов. Размер 7x16 is52. В наличии Москва."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Диски BMW 2 Gran Tourer 2016 F46. Оригинал. 7x16 is52. Номер 6855082. Кросс 36116855082."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Оригинальные диски без ремонтов. BMW 2 Gran Tourer 2016. Размер 7x16 is52. Артикул 6855082."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Контрактные диски BMW 2 Gran Tourer 2016. Состояние отличное. 7x16 is52. Номер 6855082."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] без варок и ремонтов. Размер [Размер]. Номер [Номер].",
+            "collection_description": "Контрактная Диски BMW 2 Gran Tourer (кузов F46, двс B47C20A)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:32:16.587650"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0ddd90/": {
+        "fingerprint": "93ca0470f8129d9daf1a9da82fd78157",
+        "raw_data": {
+            "h1_title": "Диски BMW 2 Gran Tourer 2016",
+            "brand": "BMW",
+            "price_raw": "17999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_665.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_666.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_667.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_668.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_669.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "2 Gran Tourer",
+                "Кузов": "F46",
+                "Двигатель": "B47C20A",
+                "Год": "2016",
+                "Номер по производителю": "6855082",
+                "Производитель": "BMW",
+                "Кросс-номера": "36116855082",
+                "ID товара": "139920"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски без варок и ремонтов. Привезены из Японии 7x16 is52",
+            "sales_notes": "В наличии Москва. 7x16 is52",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Оригинальные диски без варок и ремонтов. Привезены из Японии. Размер 7x16 is52. Подходят на BMW 2 Gran Tourer 2016 F46."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Контрактные диски с японского аукциона. Состояние отличное, без дефектов. Размер 7x16 is52."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Оригинальные диски BMW 2 Gran Tourer 2016. Размер 7x16 is52. В наличии в Москве."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Диски с авто BMW 2 Gran Tourer 2016. Оригинал, без ремонта. Размер 7x16 is52."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Оригинальные диски BMW 2 Gran Tourer 2016 F46. Размер 7x16 is52. Привезены из Японии."
+                },
+                {
+                    "title": "Диски BMW 2 Gran Tourer 2016",
+                    "description": "Диски BMW 2 Gran Tourer 2016. Оригинал, без варок и ремонтов. Размер 7x16 is52."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] без [дефекты]. Привезены из [страна] [размер]",
+            "collection_description": "Контрактная Диски BMW 2 Gran Tourer (кузов F46, двс B47C20A)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:32:39.972523"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec8f/": {
+        "fingerprint": "a1b80a13904f9c67689205474437b5c0",
+        "raw_data": {
+            "h1_title": "Диски BMW Z4 2009 E89",
+            "brand": "BMW",
+            "price_raw": "21999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_454.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_455.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_456.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_457.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_458.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "Z4",
+                "Кузов": "E89",
+                "Двигатель": "N52B25AF",
+                "Год": "2009",
+                "Номер по производителю": "6785240",
+                "Производитель": "BMW",
+                "ID товара": "136079"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски 290 стиль style, без сварки и трещин, привезены из Японии",
+            "sales_notes": "8Jx17 IS29, арт. 6785240",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW Z4 2009 E89",
+                    "description": "Оригинальные диски 290 стиль style, без сварки и трещин, привезены из Японии. Размер 8Jx17 IS29. Артикул 6785240."
+                },
+                {
+                    "title": "Диски BMW Z4 2009 E89",
+                    "description": "Контрактные диски с BMW Z4 2009 года. Состояние отличное, без дефектов. Подходят для E89."
+                },
+                {
+                    "title": "Диски BMW Z4 2009 E89",
+                    "description": "Оригинальные диски BMW, стиль 290. Размер 8Jx17. Идеально для Z4 E89."
+                },
+                {
+                    "title": "Диски BMW Z4 2009 E89",
+                    "description": "Диски в наличии на складе в Москве. Без сварки и трещин. Привезены из Японии."
+                },
+                {
+                    "title": "Диски BMW Z4 2009 E89",
+                    "description": "Комплект дисков 8Jx17 IS29. Оригинал BMW. Подходят для Z4 2009 года."
+                },
+                {
+                    "title": "Диски BMW Z4 2009 E89",
+                    "description": "Диски с автомобиля BMW Z4 2009, кузов E89, двигатель N52B25AF. Номер 6785240."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] - оригинальные, стиль [стиль], размер [размер], без дефектов, привезены из Японии",
+            "collection_description": "Контрактная Диски BMW Z4 (кузов E89, двс N52B25AF)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:33:05.730647"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e0ebe/": {
+        "fingerprint": "b26bfdae75a06e2bed39b48b0b1fab3e",
+        "raw_data": {
+            "h1_title": "Диски BMW 3 2000 E46 Coupe",
+            "brand": "BMW",
+            "price_raw": "24999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_376.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_377.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_378.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_379.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_380.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски, без варок трещин и ремонтов. 8J R17 ET47",
+            "sales_notes": "8J R17 ET47, ID 127422",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 3 2000 E46 Coupe",
+                    "description": "Оригинальные диски BMW 3 2000 E46 Coupe, сняты с авто. Без варок, трещин и ремонтов. Размер 8J R17 ET47. ID 127422."
+                },
+                {
+                    "title": "Диски BMW 3 2000 E46 Coupe",
+                    "description": "Контрактные диски BMW 3 2000 E46 Coupe. Состояние: без дефектов. Параметры: 8J R17 ET47. Номер производителя 1094506."
+                },
+                {
+                    "title": "Диски BMW 3 2000 E46 Coupe",
+                    "description": "Оригинальные диски BMW 3 2000 E46 Coupe M54B30. Размер 8J R17 ET47. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски BMW 3 2000 E46 Coupe",
+                    "description": "Диски BMW 3 2000 E46 Coupe, оригинал. Без ремонтов. 8J R17 ET47. Подходят для M54B30 306S3."
+                },
+                {
+                    "title": "Диски BMW 3 2000 E46 Coupe",
+                    "description": "Оригинальные диски BMW 3 2000 E46 Coupe. Состояние отличное. Размер 8J R17 ET47. ID товара 127422."
+                },
+                {
+                    "title": "Диски BMW 3 2000 E46 Coupe",
+                    "description": "Диски BMW 3 2000 E46 Coupe, контрактные. Без трещин и варок. 8J R17 ET47. Номер 1094506."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов], сняты с авто. Без варок, трещин и ремонтов. Размер [Размер]. ID [ID].",
+            "collection_description": "Контрактная Диски BMW 3 2000 E46 Coupe",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:33:31.475569"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2b/": {
+        "fingerprint": "e35b3db561f66b175bc170c8a24a703a",
+        "raw_data": {
+            "h1_title": "Диски BMW X3 2016 F25",
+            "brand": "BMW",
+            "price_raw": "24999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/86/0010_86_378.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/86/0010_86_379.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/86/0010_86_380.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/86/0010_86_381.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/86/0010_86_382.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "X3",
+                "Кузов": "F25",
+                "Двигатель": "N47D20C",
+                "Год": "2016",
+                "Номер по производителю": "25",
+                "Производитель": "BMW",
+                "Размеры": "8Jx17 ET45 5x120",
+                "Страна производства": "Taiwan"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Неоригинальные диски, привезены из Японии. Размер 8Jx17 ET45 5x120. На одном диске дефект",
+            "sales_notes": "В наличии на складе Москва. Цена 24999 руб",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW X3 2016 F25",
+                    "description": "Неоригинальные диски для BMW X3 2016 F25. Привезены из Японии. Размер 8Jx17 ET45 5x120. На одном диске дефект. Цена 24999 руб."
+                },
+                {
+                    "title": "Диски BMW X3 2016 F25",
+                    "description": "Комплект дисков BMW X3 2016 F25. Неоригинал, из Японии. Размер 8Jx17 ET45 5x120. Один диск с дефектом. В наличии."
+                },
+                {
+                    "title": "Диски BMW X3 2016 F25",
+                    "description": "Диски на BMW X3 2016 F25. Неоригинальные, привезены из Японии. Размер 8Jx17 ET45 5x120. Есть дефект на одном диске."
+                },
+                {
+                    "title": "Диски BMW X3 2016 F25",
+                    "description": "Продаются диски BMW X3 2016 F25. Неоригинал, из Японии. Размер 8Jx17 ET45 5x120. На одном диске дефект. Цена 24999 руб."
+                },
+                {
+                    "title": "Диски BMW X3 2016 F25",
+                    "description": "Диски для BMW X3 2016 F25. Неоригинальные, привезены из Японии. Размер 8Jx17 ET45 5x120. Один диск с дефектом. В наличии."
+                },
+                {
+                    "title": "Диски BMW X3 2016 F25",
+                    "description": "Комплект дисков BMW X3 2016 F25. Неоригинал, из Японии. Размер 8Jx17 ET45 5x120. Есть дефект на одном диске. Цена 24999 руб."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [МАРКА] [МОДЕЛЬ] [ГОД] [КУЗОВ] - неоригинальные, привезены из Японии. Размер [РАЗМЕР]. [ДЕФЕКТ]",
+            "collection_description": "Контрактная Диски BMW X3 (кузов F25, двс N47D20C)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:33:58.059159"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf36/": {
+        "fingerprint": "5491ef04d9f342a8a00aa0f2d547f1d2",
+        "raw_data": {
+            "h1_title": "Диски BMW X3 2011 F25",
+            "brand": "BMW",
+            "price_raw": "34999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_274.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_275.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_276.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_277.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_278.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски BMW X3 F25 Без сварки и трещин. Привезены из Японии 8Jx18 IS43",
+            "sales_notes": "8Jx18 IS43, без сварки и трещин",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW X3 2011 F25",
+                    "description": "Оригинальные диски BMW X3 F25. Без сварки и трещин. Привезены из Японии. Размер 8Jx18 IS43. Идеальное состояние."
+                },
+                {
+                    "title": "Диски BMW X3 2011 F25",
+                    "description": "Контрактные диски BMW X3 F25. Проверены, без дефектов. Размер 8Jx18 IS43. Подходят для BMW X3 2011 года."
+                },
+                {
+                    "title": "Диски BMW X3 2011 F25",
+                    "description": "Оригинальные диски BMW X3 F25. Состояние отличное, без сварки и трещин. Размер 8Jx18 IS43. Доставка по Москве."
+                },
+                {
+                    "title": "Диски BMW X3 2011 F25",
+                    "description": "Диски BMW X3 F25 в наличии. Размер 8Jx18 IS43. Привезены из Японии. Без сварки и трещин. Подходят для X3 2011."
+                },
+                {
+                    "title": "Диски BMW X3 2011 F25",
+                    "description": "Оригинальные диски BMW X3 F25. Размер 8Jx18 IS43. Состояние без сварки и трещин. Идеально для BMW X3 2011."
+                },
+                {
+                    "title": "Диски BMW X3 2011 F25",
+                    "description": "Контрактные диски BMW X3 F25. Размер 8Jx18 IS43. Без сварки и трещин. Привезены из Японии. В наличии в Москве."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [кузов] [год]. Без сварки и трещин. Привезены из Японии. [размер]",
+            "collection_description": "Контрактная Диски BMW X3 2011 F25",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:34:23.188546"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ad/": {
+        "fingerprint": "a97e93daf7d21fa8a8963d7ca3349a16",
+        "raw_data": {
+            "h1_title": "Диски BMW X1 2011 E84",
+            "brand": "BMW",
+            "price_raw": "34999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_420.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_421.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_422.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_423.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_424.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "X1",
+                "Кузов": "E84",
+                "Двигатель": "N46B20BD",
+                "Год": "2011",
+                "Номер по производителю": "7842636",
+                "Производитель": "BMW",
+                "Кросс-номера": "7842637",
+                "ID товара": "154541"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски BMW X1 E84 355 стиль, без сварки и трещин, привезены из Японии",
+            "sales_notes": "8Jx18 IS30 9Jx18 IS41, арт. 7842636",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW X1 2011 E84",
+                    "description": "Оригинальные диски BMW X1 E84 355 стиль, без сварки и трещин, привезены из Японии. Размеры: 8Jx18 IS30, 9Jx18 IS41. Артикул 7842636."
+                },
+                {
+                    "title": "Диски BMW X1 2011 E84",
+                    "description": "Контрактные диски BMW X1 2011 года, кузов E84, двигатель N46B20BD. Состояние отличное, без дефектов. Номер 7842636."
+                },
+                {
+                    "title": "Диски BMW X1 2011 E84",
+                    "description": "Оригинальные диски BMW X1 E84 355 стиль. Привезены из Японии. Размер 8Jx18 IS30 и 9Jx18 IS41. Артикул 7842636."
+                },
+                {
+                    "title": "Диски BMW X1 2011 E84",
+                    "description": "Диски BMW X1 2011, E84, N46B20BD. Оригинал, без сварки и трещин. Размеры: 8Jx18 IS30, 9Jx18 IS41. Номер 7842636."
+                },
+                {
+                    "title": "Диски BMW X1 2011 E84",
+                    "description": "Оригинальные диски BMW X1 E84 355 стиль. Из Японии. Без сварки и трещин. Размер 8Jx18 IS30, 9Jx18 IS41. Артикул 7842636."
+                },
+                {
+                    "title": "Диски BMW X1 2011 E84",
+                    "description": "Контрактные диски BMW X1 2011, E84, N46B20BD. Оригинал, без дефектов. Размеры: 8Jx18 IS30, 9Jx18 IS41. Номер 7842636."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [год] [кузов] [двигатель], [стиль], без [дефекты], привезены из [страна]. Размеры: [размер1], [размер2]. Артикул [номер].",
+            "collection_description": "Контрактная Диски BMW X1 (кузов E84, двс N46B20BD)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:34:47.486452"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2d/": {
+        "fingerprint": "a34afd7a8082062d4b9ab5d67a9a4e7d",
+        "raw_data": {
+            "h1_title": "Диски BMW 1 2012 F20 20",
+            "brand": "BMW",
+            "price_raw": "36999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_318.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_319.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_320.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_321.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_322.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски Niche NC132 Made in China, привезены из Японии, есть дефекты",
+            "sales_notes": "8.5Jx19 ET35, цена 36999 руб",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 1 2012 F20 20",
+                    "description": "Оригинальные диски BMW 1 серии 2012 года, кузов F20, двигатель N13B16A. Модель Niche NC132, произведены в Китае, привезены из Японии. Размер 8.5Jx19 ET35. Имеются дефекты. Цена 36 999 руб."
+                },
+                {
+                    "title": "Диски BMW 1 2012 F20 20",
+                    "description": "Контрактные диски BMW 1 (F20) 2012 г.в. Сняты с автомобиля. Модель Niche NC132, 8.5Jx19 ET35. Производство Китай, привезены из Японии. Есть дефекты. В наличии в Москве."
+                },
+                {
+                    "title": "Диски BMW 1 2012 F20 20",
+                    "description": "Диски для BMW 1 серии 2012 года (F20). Модель Niche NC132, размер 8.5Jx19 ET35. Made in China, импорт из Японии. Имеют дефекты. Цена 36 999 руб. В наличии."
+                },
+                {
+                    "title": "Диски BMW 1 2012 F20 20",
+                    "description": "Б/у диски BMW 1 (F20) 2012 г. Модель Niche NC132, 8.5Jx19 ET35. Произведены в Китае, привезены из Японии. Есть дефекты. Склад в Москве. Цена 36 999 руб."
+                },
+                {
+                    "title": "Диски BMW 1 2012 F20 20",
+                    "description": "Диски Niche NC132 для BMW 1 (F20) 2012 года. Размер 8.5Jx19 ET35. Made in China, из Японии. Имеются дефекты. В наличии, цена 36 999 руб."
+                },
+                {
+                    "title": "Диски BMW 1 2012 F20 20",
+                    "description": "Оригинальные диски BMW 1 серии 2012 (F20). Модель Niche NC132, 8.5Jx19 ET35. Производство Китай, привезены из Японии. Есть дефекты. Стоимость 36 999 руб."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Номер]",
+            "collection_description": "Контрактная Диски BMW 1 2012 F20 20",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:35:11.666952"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec3a/": {
+        "fingerprint": "7c60fcff9d612427bc69868144fcd49a",
+        "raw_data": {
+            "h1_title": "Диски BMW X5 2007 E70",
+            "brand": "BMW",
+            "price_raw": "39999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_234.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски 177 стиль, без сварки и трещин, 9Jx19 ET48",
+            "sales_notes": "Сняты с BMW X5 2007, арт. 6774396",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW X5 2007 E70",
+                    "description": "Оригинальные диски 177 стиль, без сварки и трещин, 9Jx19 ET48. Сняты с BMW X5 2007. Артикул 6774396."
+                },
+                {
+                    "title": "Диски BMW X5 2007 E70",
+                    "description": "Оригинальные диски 177 стиль, без сварки и трещин, 9Jx19 ET48. Сняты с BMW X5 2007. Артикул 6774396."
+                },
+                {
+                    "title": "Диски BMW X5 2007 E70",
+                    "description": "Оригинальные диски 177 стиль, без сварки и трещин, 9Jx19 ET48. Сняты с BMW X5 2007. Артикул 6774396."
+                },
+                {
+                    "title": "Диски BMW X5 2007 E70",
+                    "description": "Оригинальные диски 177 стиль, без сварки и трещин, 9Jx19 ET48. Сняты с BMW X5 2007. Артикул 6774396."
+                },
+                {
+                    "title": "Диски BMW X5 2007 E70",
+                    "description": "Оригинальные диски 177 стиль, без сварки и трещин, 9Jx19 ET48. Сняты с BMW X5 2007. Артикул 6774396."
+                },
+                {
+                    "title": "Диски BMW X5 2007 E70",
+                    "description": "Оригинальные диски 177 стиль, без сварки и трещин, 9Jx19 ET48. Сняты с BMW X5 2007. Артикул 6774396."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [модель] [год] [кузов], стиль [стиль], размер [размер], артикул [артикул]",
+            "collection_description": "Контрактная Диски BMW X5 2007 E70",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:35:24.911930"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e432b/": {
+        "fingerprint": "a45cfd17279fb39f12b224ef566349a7",
+        "raw_data": {
+            "h1_title": "Диски BMW 1 2010 E82",
+            "brand": "BMW",
+            "price_raw": "39999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_944.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_945.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_946.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_947.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_948.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски 261 стиль, 7.5jx18eh2 is49 8.5jx18eh2 is52",
+            "sales_notes": "Без варок и трещин",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 1 2010 E82",
+                    "description": "Оригинальные диски 261 стиль для BMW 1 серии E82 2010 года. Размеры: 7.5jx18eh2 is49 и 8.5jx18eh2 is52. Без варок и трещин. Контрактные."
+                },
+                {
+                    "title": "Диски BMW 1 2010 E82",
+                    "description": "Комплект дисков BMW 1 (E82) 2010, 261 style. Передние 7.5Jx18 ET49, задние 8.5Jx18 ET52. Оригинал, состояние отличное."
+                },
+                {
+                    "title": "Диски BMW 1 2010 E82",
+                    "description": "Оригинальные диски BMW 1 серии E82 2010 года выпуска. Стиль 261. Размерность: 7.5x18 ET49 и 8.5x18 ET52. Без дефектов."
+                },
+                {
+                    "title": "Диски BMW 1 2010 E82",
+                    "description": "Диски BMW 1 (E82) 2010, оригинал. 261 style. Перед: 7.5Jx18 ET49, зад: 8.5Jx18 ET52. Состояние: без варок и трещин."
+                },
+                {
+                    "title": "Диски BMW 1 2010 E82",
+                    "description": "Оригинальные диски BMW 1 серии E82 2010 г.в. Стиль 261. Размеры: 7.5Jx18 ET49 (перед), 8.5Jx18 ET52 (зад). Контрактные, без повреждений."
+                },
+                {
+                    "title": "Диски BMW 1 2010 E82",
+                    "description": "Комплект оригинальных дисков BMW 1 (E82) 2010, 261 style. Передние 7.5Jx18 ET49, задние 8.5Jx18 ET52. Без варок и трещин."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов], стиль [Стиль], размеры [Размеры], состояние [Состояние]",
+            "collection_description": "Контрактная Диски BMW 1 2010 E82",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:35:47.662393"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfde5/": {
+        "fingerprint": "e58b007fa3c67c3b072ac624288aa73f",
+        "raw_data": {
+            "h1_title": "Диски BMW X5 2008 E70",
+            "brand": "BMW",
+            "price_raw": "43999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_289.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_290.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_291.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_292.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_293.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "X5",
+                "Кузов": "E70",
+                "Двигатель": "N52B30AF",
+                "Год": "2008",
+                "Номер по производителю": "36118037347",
+                "Производитель": "BMW",
+                "Кросс-номера": "36118037348, 8037347, 8037348"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски BMW 223 стиль, без свари и трещин, привезены из Японии",
+            "sales_notes": "Параметры 9Jx19 ET:37 10Jx19 ET:20",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW X5 2008 E70",
+                    "description": "Оригинальные диски BMW 223 стиль, без свари и трещин, привезены из Японии. Параметры 9Jx19 ET:37 10Jx19 ET:20. Контрактная запчасть с автомобиля BMW X5 2008."
+                },
+                {
+                    "title": "Диски BMW X5 2008 E70",
+                    "description": "Оригинальные диски BMW 223 стиль, без свари и трещин, привезены из Японии. Параметры 9Jx19 ET:37 10Jx19 ET:20. Контрактная запчасть с автомобиля BMW X5 2008."
+                },
+                {
+                    "title": "Диски BMW X5 2008 E70",
+                    "description": "Оригинальные диски BMW 223 стиль, без свари и трещин, привезены из Японии. Параметры 9Jx19 ET:37 10Jx19 ET:20. Контрактная запчасть с автомобиля BMW X5 2008."
+                },
+                {
+                    "title": "Диски BMW X5 2008 E70",
+                    "description": "Оригинальные диски BMW 223 стиль, без свари и трещин, привезены из Японии. Параметры 9Jx19 ET:37 10Jx19 ET:20. Контрактная запчасть с автомобиля BMW X5 2008."
+                },
+                {
+                    "title": "Диски BMW X5 2008 E70",
+                    "description": "Оригинальные диски BMW 223 стиль, без свари и трещин, привезены из Японии. Параметры 9Jx19 ET:37 10Jx19 ET:20. Контрактная запчасть с автомобиля BMW X5 2008."
+                },
+                {
+                    "title": "Диски BMW X5 2008 E70",
+                    "description": "Оригинальные диски BMW 223 стиль, без свари и трещин, привезены из Японии. Параметры 9Jx19 ET:37 10Jx19 ET:20. Контрактная запчасть с автомобиля BMW X5 2008."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [год] [кузов] [двигатель], [состояние], привезены из [страна]. Параметры [параметры]. Контрактная запчасть с автомобиля [марка] [модель] [год].",
+            "collection_description": "Контрактная Диски BMW X5 (кузов E70, двс N52B30AF)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:36:15.576396"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0de899/": {
+        "fingerprint": "a996a416154c9f5f15f92a0407b47391",
+        "raw_data": {
+            "h1_title": "Диски BMW 1 2009 E82",
+            "brand": "BMW",
+            "price_raw": "48999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_673.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_674.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_675.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_676.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_677.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "1",
+                "Кузов": "E82",
+                "Двигатель": "N54B30A",
+                "Год": "2009",
+                "Номер по производителю": "7891051",
+                "Производитель": "BMW"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски 261 стиль, 7.5jx18eh2 is49 8.5jx18eh2 is52",
+            "sales_notes": "48 999₽, в наличии Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 1 2009 E82",
+                    "description": "Оригинальные диски 261 стиль, сняты с BMW 1 2009. Без варок и трещин. Размер 7.5jx18eh2 is49 и 8.5jx18eh2 is52. В наличии в Москве."
+                },
+                {
+                    "title": "Диски BMW 1 2009 E82",
+                    "description": "Контрактные диски BMW 1 2009 E82. Оригинал, 261 стиль. Проверены, без дефектов. Подходят для BMW 1 серии. Цена 48 999₽."
+                },
+                {
+                    "title": "Диски BMW 1 2009 E82",
+                    "description": "Оригинальные диски BMW 1 2009 года. Стиль 261. Размеры: 7.5Jx18 ET49 и 8.5Jx18 ET52. Состояние отличное, без варок и трещин."
+                },
+                {
+                    "title": "Диски BMW 1 2009 E82",
+                    "description": "Диски BMW 1 2009 E82 оригинальные. Сняты с авто. 261 стиль. Размер 7.5x18 и 8.5x18. Без повреждений. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски BMW 1 2009 E82",
+                    "description": "Оригинальные диски BMW 1 2009. Модель E82, двигатель N54B30A. Номер 7891051. 261 стиль. Без варок и трещин. Цена 48 999₽."
+                },
+                {
+                    "title": "Диски BMW 1 2009 E82",
+                    "description": "Контрактные диски BMW 1 2009. Оригинал. 261 стиль. Размер 7.5Jx18 ET49 и 8.5Jx18 ET52. Состояние хорошее. В наличии."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов] [Стиль], размер [Параметры], без дефектов, контрактные",
+            "collection_description": "Контрактная Диски BMW 1 (кузов E82, двс N54B30A)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:36:40.339244"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20c6/": {
+        "fingerprint": "1d77c26b6ef130dea2d47c996bf2ed97",
+        "raw_data": {
+            "h1_title": "Диски BMW 1 2008 E82",
+            "brand": "BMW",
+            "price_raw": "48999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_685.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_686.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_687.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_688.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_689.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "1",
+                "Кузов": "E82",
+                "Двигатель": "N54B30A",
+                "Год": "2008",
+                "Номер по производителю": "7891051",
+                "Производитель": "BMW",
+                "Кросс-номера": "7891050",
+                "ID товара": "122822"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски 261 стиль, 7.5jx18eh2 is49 8.5jx18eh2 is52, без варок и трещин",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 1 2008 E82",
+                    "description": "Оригинальные диски 261 стиль, сняты с BMW 1 2008. Размер 7.5jx18eh2 is49 и 8.5jx18eh2 is52. Без варок и трещин. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E82",
+                    "description": "Контрактные диски BMW 1 2008 E82. Оригинал, 261 стиль. Состояние: без варок и трещин. Размеры: 7.5jx18eh2 is49, 8.5jx18eh2 is52."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E82",
+                    "description": "Оригинальные диски BMW 1 2008 (E82) 261 стиль. Параметры: 7.5jx18eh2 is49, 8.5jx18eh2 is52. Без дефектов. В наличии в Москве."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E82",
+                    "description": "Диски BMW 1 2008 E82, оригинал. 261 стиль. Размер: 7.5jx18eh2 is49 и 8.5jx18eh2 is52. Состояние отличное, без варок и трещин."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E82",
+                    "description": "Оригинальные диски BMW 1 2008 (E82) 261 стиль. Характеристики: 7.5jx18eh2 is49, 8.5jx18eh2 is52. Без варок и трещин. В наличии."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E82",
+                    "description": "Контрактные диски BMW 1 2008 E82. Оригинал, 261 стиль. Размеры: 7.5jx18eh2 is49, 8.5jx18eh2 is52. Без повреждений. В наличии в Москве."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [модель] [год] [кузов] [стиль], размер [размер], состояние [состояние]",
+            "collection_description": "Контрактная Диски BMW 1 (кузов E82, двс N54B30A)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:37:06.889268"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf3a/": {
+        "fingerprint": "59f3cd2997a71ffa50f52021963b2147",
+        "raw_data": {
+            "h1_title": "Диски BMW 5 2011 F10",
+            "brand": "BMW",
+            "price_raw": "49999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_350.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_351.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_352.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_353.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_354.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "5",
+                "Кузов": "F10",
+                "Двигатель": "N52B25AF",
+                "Год": "2011",
+                "Номер по производителю": "15161010",
+                "Производитель": "BMW"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Gianelle Monaco из Японии. Без сварки и трещин. 8.5Jx20 ET20 10Jx20 ET20",
+            "sales_notes": "49 999₽, в наличии Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 5 2011 F10",
+                    "description": "Оригинальные диски Gianelle Monaco, привезены из Японии. Без сварки и трещин. Размер 8.5Jx20 ET20 и 10Jx20 ET20. В наличии в Москве."
+                },
+                {
+                    "title": "Диски BMW 5 2011 F10",
+                    "description": "Контрактные диски BMW 5 серии F10 2011 года. Оригинал, без дефектов. Размеры: 8.5Jx20 ET20, 10Jx20 ET20. Цена 49 999₽."
+                },
+                {
+                    "title": "Диски BMW 5 2011 F10",
+                    "description": "Оригинальные диски Gianelle Monaco для BMW 5 F10. Состояние отличное, без сварки и трещин. Размер 8.5Jx20 ET20 и 10Jx20 ET20."
+                },
+                {
+                    "title": "Диски BMW 5 2011 F10",
+                    "description": "Диски BMW 5 серии F10 2011 года, оригинал. Привезены из Японии. Размеры: 8.5Jx20 ET20, 10Jx20 ET20. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски BMW 5 2011 F10",
+                    "description": "Оригинальные диски Gianelle Monaco для BMW 5 F10. Без сварки и трещин. Размер 8.5Jx20 ET20 и 10Jx20 ET20. Цена 49 999₽."
+                },
+                {
+                    "title": "Диски BMW 5 2011 F10",
+                    "description": "Контрактные диски BMW 5 F10 2011 года. Оригинал, состояние отличное. Размеры: 8.5Jx20 ET20, 10Jx20 ET20. В наличии."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [тип] [модель] [год] [кузов] из Японии. Без сварки и трещин. [размеры]",
+            "collection_description": "Контрактная Диски BMW 5 (кузов F10, двс N52B25AF)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:37:34.184819"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b3/": {
+        "fingerprint": "9b3541c200f95be613b65e116b847eb6",
+        "raw_data": {
+            "h1_title": "Диски BMW 5 2007 E60",
+            "brand": "BMW",
+            "price_raw": "49999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_535.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_536.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_537.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_538.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_539.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "5",
+                "Кузов": "E60",
+                "Двигатель": "N62B40A",
+                "Год": "2007",
+                "Номер по производителю": "15454760",
+                "Производитель": "BMW",
+                "Размер": "8.5Jx20 ET15 / 9.5Jx20 ET19",
+                "PCD": "5x120",
+                "ЦО": "72.5"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски Enegry Moter Sport Work HRH2085 Made in Japan, 8.5Jx20 ET15 9.5Jx20 ET19 5x120 ЦО 72.5, есть деформация, требуют ремонта",
+            "sales_notes": "Б/У, контрактные, с деформацией",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 5 2007 E60",
+                    "description": "Оригинальные диски BMW 5 серии 2007 года, кузов E60, двигатель N62B40A. Контрактные, сняты с автомобиля. Размер 8.5Jx20 ET15 и 9.5Jx20 ET19, PCD 5x120, ЦО 72.5. Производство Япония, бренд Enegry Moter Sport Work HRH2085. Имеют деформацию, требуют ремонта."
+                },
+                {
+                    "title": "Диски BMW 5 2007 E60",
+                    "description": "Контрактные диски BMW 5 2007 E60 N62B40A. Параметры: 8.5Jx20 ET15, 9.5Jx20 ET19, 5x120, ЦО 72.5. Made in Japan. Есть деформация, требуют ремонта. Цена 49 999 руб."
+                },
+                {
+                    "title": "Диски BMW 5 2007 E60",
+                    "description": "Диски BMW 5 серии 2007 года, E60, с двигателем N62B40A. Размеры: перед 8.5Jx20 ET15, зад 9.5Jx20 ET19. Ступица 72.5, сверловка 5x120. Состояние: б/у, с деформацией. Производитель BMW, номер 15454760."
+                },
+                {
+                    "title": "Диски BMW 5 2007 E60",
+                    "description": "Оригинальные диски BMW 5 2007 E60. Характеристики: 8.5Jx20 ET15 / 9.5Jx20 ET19, 5x120, ЦО 72.5. Контрактные, с деформацией. Требуют ремонта. Бренд Enegry Moter Sport Work HRH2085, Япония."
+                },
+                {
+                    "title": "Диски BMW 5 2007 E60",
+                    "description": "Диски BMW 5 2007 года, кузов E60, двигатель N62B40A. Параметры: 8.5Jx20 ET15, 9.5Jx20 ET19, 5x120, ЦО 72.5. Состояние: б/у, есть деформация. Цена 49 999 руб. В наличии в Москве."
+                },
+                {
+                    "title": "Диски BMW 5 2007 E60",
+                    "description": "Контрактные диски BMW 5 E60 2007. Размер: 8.5Jx20 ET15 / 9.5Jx20 ET19. PCD 5x120, ступица 72.5. Производитель BMW, номер 15454760. Имеют деформацию, требуют ремонта. Японское производство."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] - [Размер] [PCD] [ЦО] - [Состояние]",
+            "collection_description": "Контрактная Диски BMW 5 (кузов E60, двс N62B40A)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:38:02.127397"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e0c45/": {
+        "fingerprint": "d0937c5359aa92016d88041f5a2131b7",
+        "raw_data": {
+            "h1_title": "Диски BMW 1 2011 E88",
+            "brand": "BMW",
+            "price_raw": "51999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_258.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_260.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_261.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_262.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_263.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "1",
+                "Кузов": "E88",
+                "Двигатель": "N43B20AA",
+                "Год": "2011",
+                "Номер по производителю": "7891051",
+                "Производитель": "BMW",
+                "Кросс-номера": "7891050"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски 261 стиль, 7.5jx18eh2 is49 8.5jx18eh2 is52",
+            "sales_notes": "Снято с BMW 1 2011, без варок и трещин",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 1 2011 E88",
+                    "description": "Оригинальные диски 261 стиль, снятые с BMW 1 2011 года. Размеры: 7.5jx18eh2 is49 и 8.5jx18eh2 is52. Без варок и трещин."
+                },
+                {
+                    "title": "Диски BMW 1 2011 E88",
+                    "description": "Контрактные диски BMW 1 (E88) 2011 года. Комплект из двух дисков разной ширины. Состояние отличное, без дефектов."
+                },
+                {
+                    "title": "Диски BMW 1 2011 E88",
+                    "description": "Оригинальные диски BMW 1 серии (E88) 2011 года выпуска. Стиль 261. Размеры передних и задних дисков разные."
+                },
+                {
+                    "title": "Диски BMW 1 2011 E88",
+                    "description": "Диски от BMW 1 (E88) 2011 года с двигателем N43B20AA. Номер производителя 7891051. В наличии в Москве."
+                },
+                {
+                    "title": "Диски BMW 1 2011 E88",
+                    "description": "Комплект дисков BMW 1 (E88) 2011 года. Передние 7.5Jx18, задние 8.5Jx18. Оригинальное состояние, без повреждений."
+                },
+                {
+                    "title": "Диски BMW 1 2011 E88",
+                    "description": "Оригинальные диски BMW 1 (E88) 2011 года. Стиль 261. Размеры: 7.5x18 и 8.5x18. Без варок и трещин. Цена за комплект."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски {модель} {год} {кузов}, стиль {стиль}, размеры {размеры}, состояние {состояние}",
+            "collection_description": "Контрактная Диски BMW 1 (кузов E88, двс N43B20AA)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:38:26.753195"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b9/": {
+        "fingerprint": "8430fa352abc647c5860835a31023fd2",
+        "raw_data": {
+            "h1_title": "Диски BMW 3 2009 E90",
+            "brand": "BMW",
+            "price_raw": "54999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_641.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_642.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_643.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_644.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_645.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "3",
+                "Кузов": "E90",
+                "Двигатель": "N46B20BD",
+                "Год": "2009",
+                "Номер по производителю": "6770464",
+                "Производитель": "BMW",
+                "Кросс-номера": "6770465"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски 216 стиль из Японии. Без сварки и трещин. 8Jx18 IS34 8.5x18 IS37",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 3 2009 E90",
+                    "description": "Оригинальные диски 216 стиль, привезены из Японии. Без сварки и трещин. Размеры: 8Jx18 IS34, 8.5x18 IS37. В наличии на складе Москва."
+                },
+                {
+                    "title": "Диски BMW 3 2009 E90",
+                    "description": "Контрактные диски BMW 3 серии E90 2009 года. Оригинал, состояние отличное. Подходят для N46B20BD. Цена 54 999 руб."
+                },
+                {
+                    "title": "Диски BMW 3 2009 E90",
+                    "description": "Оригинальные диски BMW 3 (E90) 2009. Сняты с автомобиля. Без дефектов. Размер 8Jx18 и 8.5Jx18. Номер 6770464."
+                },
+                {
+                    "title": "Диски BMW 3 2009 E90",
+                    "description": "Диски BMW 3 серии 2009 года, кузов E90. Оригинальные, 216 стиль. Привезены из Японии. Без сварки и трещин. В наличии."
+                },
+                {
+                    "title": "Диски BMW 3 2009 E90",
+                    "description": "Оригинальные диски BMW 3 (E90) 2009. Размеры: 8Jx18 ET34, 8.5Jx18 ET37. Состояние отличное. Цена 54 999 руб."
+                },
+                {
+                    "title": "Диски BMW 3 2009 E90",
+                    "description": "Контрактные диски BMW 3 2009 E90. Оригинал, без сварки и трещин. Размер 8Jx18 и 8.5Jx18. Номер 6770464. В наличии."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов] - [Описание]",
+            "collection_description": "Контрактная Диски BMW 3 (кузов E90, двс N46B20BD)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:38:52.963944"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dcdf9/": {
+        "fingerprint": "822381ce4a913d276e07349ffbcfcfc4",
+        "raw_data": {
+            "h1_title": "Диски BMW Z4 2006 E85",
+            "brand": "BMW",
+            "price_raw": "63999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_460.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_758.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_461.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_462.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_463.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски MK Motorsport Custom Design, привезены из Японии, без сварки и трещин, разноширокие 19x8.5J ET35 19x9.5J ET40",
+            "sales_notes": "19x8.5J ET35 / 19x9.5J ET40, шины 225/35ZR19 2022г, 255/30ZR19 2023г",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW Z4 2006 E85",
+                    "description": "Оригинальные диски BMW Z4 2006 E85, контрактные, привезены из Японии. Размер 19x8.5J ET35 и 19x9.5J ET40. Без сварки и трещин. В комплекте шины 225/35ZR19 2022г и 255/30ZR19 2023г."
+                },
+                {
+                    "title": "Диски BMW Z4 2006 E85",
+                    "description": "Контрактные диски BMW Z4 2006 E85, модель MK Motorsport Custom Design. Разноширокие: перед 19x8.5J ET35, зад 19x9.5J ET40. Состояние отличное, без дефектов."
+                },
+                {
+                    "title": "Диски BMW Z4 2006 E85",
+                    "description": "Диски BMW Z4 2006 E85, артикул 14412185. Привезены из Японии. Размер 19 дюймов, ширина 8.5J и 9.5J, вылет ET35 и ET40. Шины в комплекте."
+                },
+                {
+                    "title": "Диски BMW Z4 2006 E85",
+                    "description": "Набор дисков BMW Z4 2006 E85, кузов E85, двигатель N52B25AE. Диски MK Motorsport, без сварки и трещин. Размеры: 19x8.5J ET35, 19x9.5J ET40."
+                },
+                {
+                    "title": "Диски BMW Z4 2006 E85",
+                    "description": "Контрактные диски BMW Z4 2006 E85, произведены BMW. Размер 19 дюймов, разноширокие. Передние 8.5J ET35, задние 9.5J ET40. В наличии в Москве."
+                },
+                {
+                    "title": "Диски BMW Z4 2006 E85",
+                    "description": "Диски BMW Z4 2006 E85, модель MK Motorsport Custom Design. Привезены из Японии. Без сварки и трещин. Размеры: 19x8.5J ET35 и 19x9.5J ET40. Шины 225/35ZR19 и 255/30ZR19."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] - [Описание: привезены из Японии, без сварки и трещин, разноширокие, размеры, шины]",
+            "collection_description": "Контрактная Диски BMW Z4 2006 E85",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:39:22.912638"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dcdf2/": {
+        "fingerprint": "57c16ffc37ab70aa3982d73fc8f44957",
+        "raw_data": {
+            "h1_title": "Диски BMW 1 2008 E88 19\"",
+            "brand": "BMW",
+            "price_raw": "64999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_283.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_284.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_285.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_286.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/27/0010_27_287.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "1",
+                "Кузов": "E88",
+                "Двигатель": "N46B20BD",
+                "Год": "2008",
+                "Номер по производителю": "88",
+                "Производитель": "BMW"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Energy Motorsport Made in Japan, 19x8.0J ET45 5x120 ЦО 72.5 и 19x9.0J ET48 5x120 ЦО 72.5, с шинами Goodyear Eagle 215/35/19 2022г. и 235/35/19 2023г",
+            "sales_notes": "Комплект дисков и шин, снят с BMW 1 2008",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 1 2008 E88 19\"",
+                    "description": "Оригинальные диски Energy Motorsport Made in Japan. Размеры: 19x8.0J ET45 5x120 ЦО 72.5 и 19x9.0J ET48 5x120 ЦО 72.5. В комплекте шины Goodyear Eagle 215/35/19 2022г. и 235/35/19 2023г. Сняты с BMW 1 2008."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E88 19\"",
+                    "description": "Контрактные диски Energy Motorsport Made in Japan. Параметры: 19x8.0J ET45 5x120 ЦО 72.5 и 19x9.0J ET48 5x120 ЦО 72.5. Шины Goodyear Eagle 215/35/19 2022г. и 235/35/19 2023г. Состояние б/у."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E88 19\"",
+                    "description": "Оригинальные диски Energy Motorsport Made in Japan. Размеры: 19x8.0J ET45 5x120 ЦО 72.5 и 19x9.0J ET48 5x120 ЦО 72.5. Шины Goodyear Eagle 215/35/19 2022г. и 235/35/19 2023г. В наличии."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E88 19\"",
+                    "description": "Контрактные диски Energy Motorsport Made in Japan. Параметры: 19x8.0J ET45 5x120 ЦО 72.5 и 19x9.0J ET48 5x120 ЦО 72.5. Шины Goodyear Eagle 215/35/19 2022г. и 235/35/19 2023г. Подходят для BMW 1 E88."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E88 19\"",
+                    "description": "Оригинальные диски Energy Motorsport Made in Japan. Размеры: 19x8.0J ET45 5x120 ЦО 72.5 и 19x9.0J ET48 5x120 ЦО 72.5. Шины Goodyear Eagle 215/35/19 2022г. и 235/35/19 2023г. Сняты с автомобиля."
+                },
+                {
+                    "title": "Диски BMW 1 2008 E88 19\"",
+                    "description": "Контрактные диски Energy Motorsport Made in Japan. Параметры: 19x8.0J ET45 5x120 ЦО 72.5 и 19x9.0J ET48 5x120 ЦО 72.5. Шины Goodyear Eagle 215/35/19 2022г. и 235/35/19 2023г. Цена за комплект."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "[Тип товара] [Марка] [Модель] [Год] [Кузов] [Размер] - [Описание]",
+            "collection_description": "Контрактная Диски BMW 1 (кузов E88, двс N46B20BD)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:39:58.543273"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db245/": {
+        "fingerprint": "32e85f38e7aab2303b10903c633e156e",
+        "raw_data": {
+            "h1_title": "Диски BMW 5 2006 E60",
+            "brand": "BMW",
+            "price_raw": "74999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_791.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_792.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_793.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_794.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_795.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "5",
+                "Кузов": "E60",
+                "Двигатель": "N62B48B",
+                "Год": "2006",
+                "Номер по производителю": "15085360",
+                "Производитель": "BMW"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски BBS CH016, привезены из Японии, без сварки и трещин, есть дефекты на лицевой части",
+            "sales_notes": "8.5Jx19 ET20, ID 150853",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 5 2006 E60",
+                    "description": "Оригинальные диски BBS CH016, привезены из Японии. Без сварки и трещин. Есть дефекты на лицевой части. Размер 8.5Jx19 ET20."
+                },
+                {
+                    "title": "Диски BMW 5 2006 E60",
+                    "description": "Контрактные диски с BMW 5 2006 E60. Оригинал BBS CH016. Без сварки и трещин. Дефекты на лицевой части. 8.5Jx19 ET20."
+                },
+                {
+                    "title": "Диски BMW 5 2006 E60",
+                    "description": "Оригинальные диски BBS CH016 из Японии. Состояние: без сварки и трещин, есть дефекты на лицевой части. Размер 8.5Jx19 ET20."
+                },
+                {
+                    "title": "Диски BMW 5 2006 E60",
+                    "description": "Диски BBS CH016 оригинал. Привезены из Японии. Без сварки и трещин. Дефекты на лицевой части. 8.5Jx19 ET20."
+                },
+                {
+                    "title": "Диски BMW 5 2006 E60",
+                    "description": "Оригинальные диски BBS CH016. Япония. Без сварки и трещин. Есть дефекты на лицевой части. Размер 8.5Jx19 ET20."
+                },
+                {
+                    "title": "Диски BMW 5 2006 E60",
+                    "description": "Контрактные диски BBS CH016. Оригинал. Без сварки и трещин. Дефекты на лицевой части. 8.5Jx19 ET20."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер по производителю] [Размер] [Состояние]",
+            "collection_description": "Контрактная Диски BMW 5 (кузов E60, двс N62B48B)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:40:26.894243"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca32/": {
+        "fingerprint": "0e058fc9d2eed54de09fdf4d70b30d85",
+        "raw_data": {
+            "h1_title": "Диски BMW i3 2014 I01 IB1",
+            "brand": "BMW",
+            "price_raw": "74999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_218.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_219.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_220.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_221.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_222.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные кованные разноширокие диски BMW i3 стиль 428. Без сварки и трещин",
+            "sales_notes": "5Jx19 IS43 5.5Jx19 IS53, арт. 6852055",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW i3 2014 I01 IB1",
+                    "description": "Оригинальные кованные разноширокие диски BMW i3 стиль 428. Привезены из Японии. Без сварки и трещин. Размеры: 5Jx19 IS43 и 5.5Jx19 IS53."
+                },
+                {
+                    "title": "Диски BMW i3 2014 I01 IB1",
+                    "description": "Контрактные диски BMW i3 2014 года. Сняты с автомобиля. Оригинальные, кованые, разноширокие. Без дефектов."
+                },
+                {
+                    "title": "Диски BMW i3 2014 I01 IB1",
+                    "description": "Оригинальные диски BMW i3 стиль 428. Размеры: 5Jx19 IS43 и 5.5Jx19 IS53. Без сварки и трещин. В наличии."
+                },
+                {
+                    "title": "Диски BMW i3 2014 I01 IB1",
+                    "description": "Кованые диски BMW i3 2014. Оригинал. Привезены из Японии. Состояние отличное, без сварки и трещин."
+                },
+                {
+                    "title": "Диски BMW i3 2014 I01 IB1",
+                    "description": "Диски BMW i3 I01 IB1. Оригинальные кованые. Разноширокие: 5Jx19 IS43 и 5.5Jx19 IS53. Без повреждений."
+                },
+                {
+                    "title": "Диски BMW i3 2014 I01 IB1",
+                    "description": "Оригинальные диски BMW i3 2014. Стиль 428. Кованые, разноширокие. Без сварки и трещин. В наличии на складе."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные кованные разноширокие диски [МАРКА] [МОДЕЛЬ] стиль [СТИЛЬ]. Привезены из Японии. Без сварки и трещин. Размеры: [РАЗМЕР1] и [РАЗМЕР2].",
+            "collection_description": "Контрактная Диски BMW i3 2014 I01 IB1",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:40:51.317121"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfddf/": {
+        "fingerprint": "9d5dbddcd4b023e4e50ad7db69d591f6",
+        "raw_data": {
+            "h1_title": "Диски BMW 3 1997 E36",
+            "brand": "BMW",
+            "price_raw": "74999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_914.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_915.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_916.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_917.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_918.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "3",
+                "Кузов": "E36",
+                "Двигатель": "M52B20 206S3",
+                "Год": "1997",
+                "Номер по производителю": "1095340",
+                "Производитель": "BMW",
+                "Кросс-номера": "1095341"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски BMW 3 1997 E36, контрактные из Японии, без пробега по РФ",
+            "sales_notes": "8Jx18 IS47 8.5Jx18 IS50, без сварки и трещин",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 3 1997 E36",
+                    "description": "Оригинальные диски BMW 3 1997 E36, контрактные из Японии, без пробега по РФ. Размеры: 8Jx18 IS47 и 8.5Jx18 IS50. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски BMW 3 1997 E36",
+                    "description": "Оригинальные диски BMW 3 1997 E36, контрактные из Японии, без пробега по РФ. Размеры: 8Jx18 IS47 и 8.5Jx18 IS50. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски BMW 3 1997 E36",
+                    "description": "Оригинальные диски BMW 3 1997 E36, контрактные из Японии, без пробега по РФ. Размеры: 8Jx18 IS47 и 8.5Jx18 IS50. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски BMW 3 1997 E36",
+                    "description": "Оригинальные диски BMW 3 1997 E36, контрактные из Японии, без пробега по РФ. Размеры: 8Jx18 IS47 и 8.5Jx18 IS50. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски BMW 3 1997 E36",
+                    "description": "Оригинальные диски BMW 3 1997 E36, контрактные из Японии, без пробега по РФ. Размеры: 8Jx18 IS47 и 8.5Jx18 IS50. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски BMW 3 1997 E36",
+                    "description": "Оригинальные диски BMW 3 1997 E36, контрактные из Японии, без пробега по РФ. Размеры: 8Jx18 IS47 и 8.5Jx18 IS50. Без сварки и трещин."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [год] [кузов], контрактные из Японии, без пробега по РФ. [Характеристики]. Без сварки и трещин.",
+            "collection_description": "Контрактная Диски BMW 3 (кузов E36, двс M52B20 206S3)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:41:17.380004"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfde8/": {
+        "fingerprint": "f1943a345beb0dfb6b40657186aae71f",
+        "raw_data": {
+            "h1_title": "Диски BMW 3 2002 E46",
+            "brand": "BMW",
+            "price_raw": "89999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_767.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_768.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_769.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_770.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_771.jpg"
+            ],
+            "specs": {
+                "Марка": "BMW",
+                "Модель": "3",
+                "Кузов": "E46 Convertible",
+                "Двигатель": "M54B30 306S3",
+                "Год": "2002",
+                "Номер по производителю": "361146400",
+                "Производитель": "BMW"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски AC Schnitzer Type 3, 8.5Jx18 ET43, без пробега по РФ",
+            "sales_notes": "8.5Jx18 ET43, контрактные из Японии",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Диски",
+                "BMW"
+            ],
+            "variations": [
+                {
+                    "title": "Диски BMW 3 2002 E46",
+                    "description": "Оригинальные диски AC Schnitzer Type 3, 8.5Jx18 ET43, без пробега по РФ, привезены из Японии. Сварки и трещин нет, есть проблемы по ЛКП."
+                },
+                {
+                    "title": "Диски BMW 3 2002 E46",
+                    "description": "Контрактные диски BMW 3 Series E46 2002 года, размер 8.5Jx18 ET43, состояние б/у, без повреждений."
+                },
+                {
+                    "title": "Диски BMW 3 2002 E46",
+                    "description": "Оригинальные диски BMW 3 2002 E46 Convertible, артикул 361146400, подходят для M54B30."
+                },
+                {
+                    "title": "Диски BMW 3 2002 E46",
+                    "description": "Диски AC Schnitzer Type 3 для BMW 3 E46, одноширокие, 8.5Jx18 ET43, привезены из Японии."
+                },
+                {
+                    "title": "Диски BMW 3 2002 E46",
+                    "description": "Комплект дисков BMW 3 2002 года, модель E46 Convertible, размер 8.5Jx18 ET43, состояние на фото."
+                },
+                {
+                    "title": "Диски BMW 3 2002 E46",
+                    "description": "Оригинальные диски BMW 3 Series 2002, кузов E46, двигатель M54B30, номер 361146400."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Размер] [Состояние]",
+            "collection_description": "Контрактная Диски BMW 3 (кузов E46 Convertible, двс M54B30 306S3)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:41:43.632731"
+    }
+}
